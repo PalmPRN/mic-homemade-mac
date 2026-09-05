@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+*.swp
+*~
+
+# SwiftPM & Build outputs
+.build/
+build/
+.swiftpm/
+DerivedData/
